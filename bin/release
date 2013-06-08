@@ -1,0 +1,6 @@
+#!/bin/sh
+cat <<EOF
+---
+config_vars:
+default_process_types:
+EOF
