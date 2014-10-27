@@ -15,7 +15,7 @@ Create this .buildpacks file in the root of your project.
 
 Create this .vendor_urls file in the root of your project.
 
-    https://s3.amazonaws.com/spacialdb/heroku/geos-3.3.8.tar.gz
+    https://s3.amazonaws.com/spacialdb/heroku/geos-3.4.2.tar.gz
     https://s3.amazonaws.com/spacialdb/heroku/proj-4.8.0.tar.gz
 
 Add these files to git.
